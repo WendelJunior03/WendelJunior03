@@ -1,9 +1,18 @@
-## Opaa! Eu sou Wendel Junior
+## My name is, Wendel Junior
 
-<div align="end">
+- 👩‍💻 Software Developer @GaiaCode
+- 🎥 Tech content producer, I create programming tutorials on my YouTube Channel and share informative content on my Instagram.
+- 🎓 Bachelor's degree in Systems Analysis and Development
+- 🌐 Passionate about software development in general, I really like mobile development
+- 💡 Available for any challenge
+
+
+<div align="start">
   <a href="https://github.com/WendelJunior03">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendelJunior03&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendelJunior03&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
+
+
 
 <div>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
