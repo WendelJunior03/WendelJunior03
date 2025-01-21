@@ -1,7 +1,6 @@
 ## My name is, Wendel Junior
 
 - 👩‍💻 Software Developer @GaiaCode
-- 🎥 Tech content producer, I create programming tutorials on my YouTube Channel and share informative content on my Instagram.
 - 🎓 Bachelor's degree in Systems Analysis and Development
 - 🌐 Passionate about software development in general, I really like mobile development
 - 💡 Available for any challenge
