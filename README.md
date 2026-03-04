@@ -1,6 +1,6 @@
 ## My name is, Wendel Junior
 
-- 👩‍💻 Software Developer @GaiaCode
+- 👩‍💻 FullStack Developer @GaioGlobal
 - 🎓 Bachelor's degree in Systems Analysis and Development
 - 🌐 Passionate about software development in general, I really like mobile development
 - 💡 Available for any challenge
