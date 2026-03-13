@@ -23,7 +23,7 @@
 
 - 🔭 Atualmente trabalhando como **Desenvolvedor FullStack** na **GaioLabs**
 - 🎓 Bacharel em **Análise e Desenvolvimento de Sistemas**
-- 🌐 Apaixonado por desenvolvimento de software em geral, com um carinho especial por **desenvolvimento mobile**
+- 🌐 Apaixonado por desenvolvimento de software em geral
 - 💡 Sempre aberto a novas ideias e **disponível para qualquer desafio**
 
 ---
