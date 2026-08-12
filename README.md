@@ -74,10 +74,3 @@
 </p>
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WendelJunior03&show_icons=true&theme=github_dark&hide_border=true" height="160em" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendelJunior03&layout=compact&langs_count=7&theme=github_dark&hide_border=true" height="160em" alt="Top Languages" />
-</div>
